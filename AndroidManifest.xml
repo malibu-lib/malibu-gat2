@@ -5,7 +5,7 @@
 
     <uses-sdk
         android:minSdkVersion="7"
-        android:targetSdkVersion="15" />
+        android:targetSdkVersion="17" />
 
     <!-- Add these to your manifest or enable manifest merging by adding manifestmerger.enabled=true to your project.properties file -->
     <uses-permission android:name="android.permission.INTERNET" />
